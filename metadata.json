@@ -1,0 +1,8 @@
+{
+  "name": "ZipReact",
+  "description": "Convert static HTML, CSS, SVG, and asset ZIP archives into runnable React TypeScript or JavaScript projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
